@@ -1,5 +1,16 @@
 # stately-vscode
 
+## 1.9.0
+
+### Minor Changes
+
+- [#114](https://github.com/statelyai/xstate-tools/pull/114) [`267db6b`](https://github.com/statelyai/xstate-tools/commit/267db6b00f6f7fda1145e0631638620b7649afe0) Thanks [@mattpocock](https://github.com/mattpocock)! - Gave typegen the ability to calculate all of the events which can fire exit actions.
+
+### Patch Changes
+
+- Updated dependencies [[`267db6b`](https://github.com/statelyai/xstate-tools/commit/267db6b00f6f7fda1145e0631638620b7649afe0)]:
+  - @xstate/tools-shared@1.2.0
+
 ## 1.8.3
 
 ### Patch Changes
